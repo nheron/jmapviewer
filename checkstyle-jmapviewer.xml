@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/nheron/workspace-drools/code-almady/jmapviewer/jmapviewer/test/org/openstreetmap/gui/jmapviewer/tilesources/TemplatedTMSTileSourceTest.java">
+<error line="21" severity="warning" message="La ligne excède 145 caractères (trouvé 178)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+</checkstyle>
